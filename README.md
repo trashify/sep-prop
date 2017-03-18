@@ -4,29 +4,6 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://npmjs.org/package/sep-prop">
-      <img src="https://img.shields.io/npm/v/sep-prop.svg?style=flat-square" alt="NPM version" />
-    </a>
-    <a href="https://npmjs.org/package/sep-prop">
-    <img src="https://img.shields.io/npm/dm/sep-prop.svg?style=flat-square" alt="Downloads" />
-    </a>
-    <a href="https://github.com/feross/standard">
-      <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square" alt="Standard" />
-    </a>
-    <a href="https://travis-ci.org/tiaanduplessis/sep-prop">
-      <img src="https://img.shields.io/travis/tiaanduplessis/sep-prop/master.svg?style=flat-square" alt="Travis Build" />
-    </a>
-    <a href="https://github.com/RichardLitt/standard-readme)">
-      <img src="https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square" alt="Standard Readme" />
-    </a>
-    <a href="https://badge.fury.io/gh/tiaanduplessis%2Fsep-prop">
-      <img src="https://badge.fury.io/gh/tiaanduplessis%2Fsep-prop.svg?style=flat-square" alt="GitHub version" />
-   </a>
-   <a href="http://packagequality.com/#?package=sep-prop">
-    <img src="http://packagequality.com/shield/sep-prop.svg" alt="Package quality"/>
-  </a>
-</div>
-<div align="center">
   <a href="https://npmjs.org/package/sep-prop">
     <img src="https://img.shields.io/npm/v/sep-prop.svg?style=flat-square" alt="Package version" />
   </a>
