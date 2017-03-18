@@ -1,0 +1,41 @@
+{
+  "name": "sep-prop",
+  "version": "1.0.0",
+  "description": "Get, set, or remove a property from a nested object using a separator of your choosing",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tiaanduplessis/sep-prop.git"
+  },
+  "homepage": "https://github.com/tiaanduplessis/sep-prop",
+  "bugs": "https://github.com/tiaanduplessis/sep-prop/issues",
+  "author": {
+    "name": "Tiaan",
+    "email": "tiaanduplessis@hotmail.com",
+    "url": "tiaanduplessis.co.za"
+  },
+  "scripts": {
+    "start": "npm run dev",
+    "pretest": "npm run lint:fix",
+    "test": "jest --env=node",
+    "test:watch": "npm test -- --watch",
+    "coverage": "npm test -- --coverage",
+    "lint": "standard --verbose",
+    "lint:fix": "standard --fix --verbose",
+    "precommit": "npm test"
+  },
+  "keywords": [
+    "sep",
+    "object",
+    "property",
+    "separator",
+    "sep-prop"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "husky": "^0.13.2",
+    "jest": "^19.0.2",
+    "standard": "^9.0.0"
+  }
+}
