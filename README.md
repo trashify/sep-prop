@@ -66,7 +66,7 @@
 
 ## About
 
-Based and inspired on [dot-prop](https://github.com/sindresorhus/dot-prop). Allows you to get, set, or remove a property from a nested object using a separator of your choosing. Support for escaping.
+Based and inspired by [dot-prop](https://github.com/sindresorhus/dot-prop). Allows you to get, set, or remove a property from a nested object using a separator of your choosing. Support for escaping.
 
 ## Install
 
